@@ -1,0 +1,11 @@
+#tarbar{
+    height: 49px;
+    /* border: 1px solid green; */
+    box-shadow: 0 -1px 2px #f333;
+    background-color: #f6f6f6;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+}
